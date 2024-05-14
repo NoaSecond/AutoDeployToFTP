@@ -1,5 +1,5 @@
 # AutoDeployToFTP
-[AutoDeployToFTP](https://github.com/YoruKiwi/AutoDeployToFTP/) is an open-source Continuous Integration (CI) project designed to automate the deployment of your website to an FTP server.
+[AutoDeployToFTP](https://github.com/YoruKiwi/AutoDeployToFTP/) is an open-source Continuous Deployment (CD) project designed to automate the deployment of your website to an FTP server.
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions"/></a>
 
